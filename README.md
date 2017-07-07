@@ -12,9 +12,13 @@
 
 `wget -qO- https://raw.github.com/ma6174/vim/master/setup.sh | sh -x`
 
+对于我们这些在墙内的人来说：
+
+`wget `
+
 ### 或者自己手动安装：(以ubuntu为例)
 
-1. 安装vim `sudo apt-get install vim`
+1. 安装vim `sudo apt-get install vim vim-nox`
 - 安装ctags：`sudo apt-get install ctags`
 - 安装一些必备程序：`sudo apt-get install xclip vim-gnome astyle python-setuptools`
 - python代码格式化工具：`sudo easy_install -ZU autopep8`
