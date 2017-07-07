@@ -405,7 +405,6 @@ set encoding=utf8
 set fileencodings=utf8,ucs-bom,gbk,cp936,gb2312,gb18030
 
 autocmd FileType python set omnifunc=pythoncomplete#Complete
-
 "set nocompatible               " be iMproved
 "filetype off                   " required!
 
@@ -470,3 +469,5 @@ let g:ctrlp_custom_ignore = '\v\.(exe|so|dll)$'
 let g:ctrlp_extensions = ['funky']
 
 let NERDTreeIgnore=['\.pyc']
+"修正光标显示错位
+let g:indentLine_enabled = 0 
