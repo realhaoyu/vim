@@ -21,9 +21,9 @@ mv -f ~/vim ~/.vim
 mv -f ~/.vimrc ~/.vimrc_old
 mv -f ~/.vim/.vimrc ~/
 git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
-echo "正在努力为女装dalao安装bundle程序" > ma6174
-echo "安装完毕将自动退出" >> ma6174
-echo "请耐心等待" >> ma6174
-vim ma6174 -c "BundleInstall" -c "q" -c "q"
-rm ma6174
+echo "正在努力为女装dalao安装bundle程序" > realhaoyu
+echo "安装完毕将自动退出" >> realhaoyu
+echo "请耐心等待" >> realhaoyu
+vim realhaoyu -c "BundleInstall" -c "q" -c "q"
+rm realhaoyu
 echo "安装完成"
