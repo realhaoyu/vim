@@ -31,7 +31,3 @@ PS：对于我们这些在墙内的人来说需要配置代理，具体方法请
 ### 了解更多vim使用的小技巧：
 
 [tips.md](tips.md)
-
-### 查看更新日志：
-
-[`update_log.md`](update_log.md)
