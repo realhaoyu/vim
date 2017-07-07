@@ -15,7 +15,7 @@ fi
 sudo easy_install -ZU autopep8 
 sudo ln -s /usr/bin/ctags /usr/local/bin/ctags
 mv -f ~/vim ~/vim_old
-cd ~/ && git clone https://github.com/ma6174/vim.git
+cd ~/ && git clone https://github.com/realhaoyu/vim.git
 mv -f ~/.vim ~/.vim_old
 mv -f ~/vim ~/.vim
 mv -f ~/.vimrc ~/.vimrc_old
