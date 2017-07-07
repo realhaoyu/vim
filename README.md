@@ -12,7 +12,7 @@
 
 `wget -qO- https://github.com/realhaoyu/vim/raw/master/setup.sh | sh -x`
 
-PS：对于我们这些在墙内的人来说需要配置代理，具体方法请各位女装dalao谷歌一下。
+PS：对于我们这些在墙内的人来说需要配置代理（wget、git），具体方法请各位女装dalao谷歌一下。
 
 ### 或者自己手动安装：(以ubuntu为例)
 
