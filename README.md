@@ -8,7 +8,7 @@
 
 打开终端，执行下面的命令就自动安装好了：
 
-`wget -qO- https://github.com/realhaoyu/vim/raw/master/setup.sh | sh -x`
+`wget -qO- https://github.com/vvilab/vim/raw/master/setup.sh | sh -x`
 
 PS：对于我们这些在墙内的人来说需要配置代理（wget、git），具体方法请各位女装dalao谷歌一下。
 
