@@ -12,7 +12,7 @@ if which brew >/dev/null;then
     brew install vim ctags git astyle
 fi
 
-sudo easy_install -ZUi autopep8 http://pypi.douban.com/simple
+sudo easy_install -ZUi http://pypi.douban.com/simple/ autopep8
 sudo ln -s /usr/bin/ctags /usr/local/bin/ctags
 mv -f ~/vim ~/vim_old
 cd ~/ && git clone https://github.com/realhaoyu/vim.git
